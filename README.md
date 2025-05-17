@@ -1,6 +1,6 @@
 # DG-6D: Dual-stream Geometric Feature Fusion and Global Enhanced Key-point Features for Category-Level 6D Pose Estimation
 ## The overall framework of DG-6D
-![image](https://github.com/TheDecoderttt/DG-6D/blob/main/Fig1.pdf)
+![image](https://github.com/TheDecoderttt/DG-6D/blob/main/fig1.png)
 ## Environment Settings
 The code has been tested with
 
