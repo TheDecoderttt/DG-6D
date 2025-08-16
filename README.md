@@ -1,6 +1,6 @@
 # DG-6D: Dual-stream Geometric Feature Fusion and Global Enhanced Key-point Features for Category-Level 6D Pose Estimation
 ## The overall framework of DG-6D
-![image](https://github.com/TheDecoderttt/DG-6D/blob/main/fig1.png)
+![image](./fig1.png)
 ## Environment Settings
 The code has been tested with
 
@@ -76,3 +76,4 @@ For visualization, please run
 ```
 python visualize.py --config config/REAL/camera_real.yaml --test_epoch 30
 ```
+![image](./Vis.png)
